@@ -1,0 +1,13 @@
+{
+	"id" : "ShadowTooltips",
+	"name" : "GDT Tooltips",
+	"version":"0.1.0",
+	"author":"Shadowfacts <me@shadowfacts.net>",
+	"url":"https://github.com/shadowfacts/GDTTooltips",
+	"description" : "Adds some simple tooltips.",
+	"main" : "./src/ShadowTooltips.js",
+	"dependencies": {
+		"gdt-modAPI": "0.1.x",
+		"ShadowGDT": "0.1.x"
+	}
+}
