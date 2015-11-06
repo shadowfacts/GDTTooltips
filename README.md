@@ -1,2 +1,2 @@
 # GDTTooltips
-Adds some simple tooltips to Game Dev Tycoon.
+Adds some simple tooltips to Game Dev Tycoon. Depends on ShadowGDT.
